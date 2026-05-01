@@ -1,0 +1,12 @@
+name = "barnette_paper"
+version = "0.1.0"
+defaultTargets = ["Barnette"]
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "v4.29.1"
+
+[[lean_lib]]
+name = "Barnette"
+roots = ["Barnette", "SpanningCycle", "SpanningCycleCore"]

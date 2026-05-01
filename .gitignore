@@ -1,0 +1,17 @@
+# Lean / Lake build outputs
+.lake/
+build/
+*.olean
+*.olean.hash
+*.ilean
+*.ilean.hash
+*.trace
+
+# Local toolchains and caches
+.lean-runtime/
+.elan/
+
+# Editor / OS noise
+.DS_Store
+*.swp
+*~
