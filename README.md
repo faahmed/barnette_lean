@@ -1,6 +1,6 @@
-# Barnette Paper Lean Subset
+# A Spanning-Cycle Criterion for Canonical Subdivisions of Bipartite Planar 2-Cells
 
-This directory is a standalone Lean 4 subset for the recursive face-split paper.
+This repository accompanies the Zenodo preprint: 10.5281/zenodo.19943869
 
 ```lean
 barnetteConjecture_of_fullClassPositiveRecursiveFaceSplitCertificateProvider
