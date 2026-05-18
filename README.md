@@ -1,6 +1,6 @@
 # A Spanning-Cycle Criterion for Canonical Subdivisions of Bipartite Planar 2-Cells
 
-This repository accompanies the Zenodo preprint: 10.5281/zenodo.19943869
+This repository accompanies the Zenodo preprint: https://doi.org/10.5281/zenodo.20264416
 
 ```lean
 barnetteConjecture_of_fullClassPositiveRecursiveFaceSplitCertificateProvider
